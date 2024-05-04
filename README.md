@@ -20,7 +20,7 @@ Link: https://usergraphs.web.app
 ```bash
     cd users-app
     npm i
-    npm run watch
+    npm run start
 ```
 
 ### To test
