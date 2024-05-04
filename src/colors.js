@@ -1,0 +1,10 @@
+export const greyscale_900 = "#48525C";
+export const greyscale_800 = "#5E6B78";
+export const greyscale_700 = "#6E7D8C";
+export const greyscale_600 = "#8091A3";
+export const greyscale_500 = "#91A3B8";
+export const greyscale_400 = "#A7B7C7";
+export const greyscale_300 = "#BCC9D6";
+export const greyscale_200 = "#D8E4F0";
+export const greyscale_100 = "#EBF2FA";
+export const greyscale_50 = "#F7FBFF";

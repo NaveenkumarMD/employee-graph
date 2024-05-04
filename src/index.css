@@ -1,0 +1,16 @@
+body,
+html {
+    margin: 0px;
+    padding: 0px;
+    scrollbar-width: none;
+}
+@-moz-document url-prefix() {
+    html,
+    body {
+        overflow: hidden !important;
+    }
+}
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+        monospace;
+}
